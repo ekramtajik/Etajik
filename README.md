@@ -1,5 +1,4 @@
-# Etajik
-readme
+
 
 # 💫 About Me:
 Hi there 👋 I’m Ekram Tajik, a passionate Frontend Developer and UI/UX enthusiast.<br>I love building responsive, interactive, and user-friendly web applications with Vue.js and Tailwind CSS.<br>My focus is always on crafting clean code and seamless user experiences.<br>Currently, I’m improving my skills and exploring modern tools to stay up-to-date in the web world.<br>💡 Let’s create something amazing together!
